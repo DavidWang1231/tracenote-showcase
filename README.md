@@ -1,6 +1,6 @@
 # TraceNote Portfolio Showcase
 
-A public, privacy-safe product demonstration for [TraceNote](https://tracenote-evidence-demo.wangjiacheng1231.chatgpt.site), an evidence-first document research workspace.
+A public, privacy-safe product demonstration for [TraceNote](https://davidwang1231.github.io/tracenote-showcase/), an evidence-first document research workspace.
 
 ![TraceNote social preview](public/og.png)
 
